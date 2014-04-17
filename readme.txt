@@ -4,4 +4,5 @@ git has a index called staged area.
 git tracks changes.
 creating a new branch called dev.
 
-create a new branch is quick & simple.
+create a new branch is quick & simple. (master)
+create a new branch is quick AND simple. (feature)
