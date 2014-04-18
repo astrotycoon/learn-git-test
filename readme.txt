@@ -8,3 +8,4 @@ create a new branch is quick & simple. (master)
 create a new branch is quick AND simple. (feature)
 
 create a new branch is quick (master/feature) simple.
+git can merget branchs.
