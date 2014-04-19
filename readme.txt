@@ -18,9 +18,7 @@ in branch master.
 
 finish the function in dev1.
 finish the function in dev2.
-=======
 git is a free software distributed under the GPL.
 git has a mutable index called stage.
 git tracks changes.
 my stupid boss still prefers SVN.
->>>>>>> 1485ef44c633d3d54aa6dc82205a4278ff294ec8
