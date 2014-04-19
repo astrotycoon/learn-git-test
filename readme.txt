@@ -14,3 +14,5 @@ git also can merge branchs withs no-ff.
 in branch dev again.
 in branch feature1.
 in branch master.
+
+finish the function in dev1.
