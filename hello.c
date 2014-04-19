@@ -10,6 +10,7 @@ void feature2_print(const char *str)
 {
 	func1();
 	func2();
+	func3();
 	printf("%s", str);
 }
 
