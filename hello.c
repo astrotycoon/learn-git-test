@@ -21,7 +21,7 @@ int dev(void)
 
 int dev2(void)
 {
-	return (2 + 2);
+	return (2 + 3);
 }
 
 int main(int argc, const char *argv[])
