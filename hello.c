@@ -3,7 +3,6 @@
 
 void feature1_print(const char *str)
 {
-	func1();
 	printf("%s", str);
 }
 
