@@ -12,3 +12,4 @@ git can merget branchs.
 git also can merge branchs withs no-ff.
 
 in branch dev again.
+in branch feature1.
