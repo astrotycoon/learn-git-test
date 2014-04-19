@@ -3,7 +3,7 @@
 
 void feature1_print(const char *str)
 {
-
+	printf("%s", str);
 }
 
 void feature2_print(const char *str)
