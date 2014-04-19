@@ -19,6 +19,11 @@ int dev(void)
 	return (1 + 1);
 }
 
+int dev2(void)
+{
+	return (2 + 2);
+}
+
 int main(int argc, const char *argv[])
 {
 	printf("hello world.\n");	
@@ -26,6 +31,7 @@ int main(int argc, const char *argv[])
 	feature1_print("Hi, everyone. I am feature2 branch");
 	
 	dev();
+	dev2();
 
 	return 0;
 }
