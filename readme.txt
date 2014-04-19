@@ -11,4 +11,4 @@ create a new branch is quick (master/feature) simple.
 git can merget branchs.
 git also can merge branchs withs no-ff.
 
-in branch dev.
+in branch dev again.
