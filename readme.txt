@@ -1,4 +1,5 @@
 git is a distributed version control system.
+<<<<<<< HEAD
 git is free software distributed under GPL.
 git has a index called staged area.
 git tracks changes.
@@ -17,3 +18,9 @@ in branch master.
 
 finish the function in dev1.
 finish the function in dev2.
+=======
+git is a free software distributed under the GPL.
+git has a mutable index called stage.
+git tracks changes.
+my stupid boss still prefers SVN.
+>>>>>>> 1485ef44c633d3d54aa6dc82205a4278ff294ec8
