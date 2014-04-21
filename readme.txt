@@ -7,20 +7,3 @@ creating a new branch called dev.
 create a new branch is quick & simple. (master)
 create a new branch is quick AND simple. (feature)
 
-create a new branch is quick (master/feature) simple.
-git can merget branchs.
-git also can merge branchs withs no-ff.
-
-in branch dev again.
-in branch feature1.
-in branch master.
-
-finish the function in dev1.
-finish the function in dev2.
-git is a free software distributed under the GPL.
-git has a mutable index called stage.
-git tracks changes.
-my stupid boss still prefers SVN.
-
-Hi, I am bob in branch dev.
-Hi, I am michael in branch dev.
