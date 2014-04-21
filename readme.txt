@@ -19,3 +19,4 @@ finish the function in dev1.
 finish the function in dev2.
 
 Hi, I am bob in branch dev.
+Hi, I am michael in branch dev.
