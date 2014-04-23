@@ -7,3 +7,5 @@ creating a new branch called dev.
 create a new branch is quick & simple. (master)
 create a new branch is quick AND simple. (feature)
 
+michael
+
